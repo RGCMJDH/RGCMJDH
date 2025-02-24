@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RGCMJDH
-- 👀 I’m interested in anythibg computing related
-- 🌱 I’m currently learning Java and Assembly
+- 👀 I’m interested in anything computing related
+- 🌱 I’m currently learning Java and Assembly, and Python in a near future
 - 💞️ I’m looking to collaborate on creative projects
 - 📫 How to reach me @albertgallego24
 - 😄 Pronouns: he
